@@ -1,3 +1,4 @@
-1
-2
+
 1- edit for seing if I have to update my local repository
+2. add another line
+3. to see how to work git guiiiii
